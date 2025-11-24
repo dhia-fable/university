@@ -171,3 +171,16 @@ echo" <br/>";
 echo" <br/>";
 
 print(sprintf($string1,$string2));
+
+echo" <br/>";
+echo" <br/>";
+echo" <br/>";
+
+print(str_word_count($string2));
+
+echo" <br/>";
+echo" <br/>";
+echo" <br/>";
+
+print(strrev($string1));
+
